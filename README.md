@@ -33,7 +33,7 @@ I'm currently learning by building in public, focused on Python, Javascript, API
 
 **💡 Background:** Coming from a people-leadership role, bringing strong problem-solving and process-thinking skills into backend development.
 
-**📫 Reach me:** LinkedIn : · Email : 
+**📫 Reach me:** LinkedIn : https://www.linkedin.com/in/man-j-s/ · Email : macsngh99@gmail.com
 
 ---
 *This profile updates as I build — check back for progress on active projects.*
